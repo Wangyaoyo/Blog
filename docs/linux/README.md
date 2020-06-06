@@ -1,5 +1,5 @@
 ---
-title: linux命令
+title: linux
 date: 2020-05-27
 categories:
  - linux

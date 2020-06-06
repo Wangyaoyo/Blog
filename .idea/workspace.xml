@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="548010a5-2ca8-46a5-a45d-abb3a010d741" name="Default Changelist" comment="" />
+    <list default="true" id="548010a5-2ca8-46a5-a45d-abb3a010d741" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/ES6/Promise.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/css/css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/css/stylus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/vue/vue-router.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/vue/vue基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/vue/vue项目初始化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/vue/库.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/webpack/webpack基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/webpack/webpack应用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ES6/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ES6/ES6基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/linux/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/linux/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/zh/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +30,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cMEujKPDWZtQdClHLp2fbOdkNC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -32,9 +53,11 @@
       <recent name="D:\Desktop\demoBlog\docs\.vuepress\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\my-project\github\Blog\docs\webpack" />
+      <recent name="D:\Desktop\my-project\github\Blog\docs\css" />
+      <recent name="D:\Desktop\my-project\github\Blog\docs\linux" />
       <recent name="D:\Desktop\demoBlog\docs\.vuepress\public" />
       <recent name="D:\Desktop\demoBlog\docs\.vuepress" />
-      <recent name="D:\Desktop\demoBlog\docs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -64,10 +87,25 @@
       <workItem from="1590539264887" duration="23967000" />
       <workItem from="1590576367327" duration="194000" />
       <workItem from="1590576571649" duration="1165000" />
+      <workItem from="1591259826760" duration="23778000" />
+      <workItem from="1591339772530" duration="16489000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
